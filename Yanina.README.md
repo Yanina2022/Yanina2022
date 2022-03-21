@@ -1,6 +1,8 @@
 ### Hi there 👋 i am Yanina 
 
-I'm currently learning python and android
+I'm currently learning python and android programming
+
+I'm thinking on studying machine learning and AWS or snowflake!
 
 Ask me about power bi and mysql
  
